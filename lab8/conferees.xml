@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Conferees>
+  <Conferee>
+    <Name>Ім'я1</Name>
+    <Surname>Прізвище1</Surname>
+    <Affiliation>Організація1</Affiliation>
+    <Email>email1@example.com</Email>
+    <PaperTitle>Назва доповіді1</PaperTitle>
+  </Conferee>
+  <Conferee>
+    <Name>Ім'я2</Name>
+    <Surname>Прізвище2</Surname>
+    <Affiliation>Організація2</Affiliation>
+    <Email>email2@example.com</Email>
+    <PaperTitle>Назва доповіді2</PaperTitle>
+  </Conferee>
+  <Conferee>
+    <Name>Ім'я3</Name>
+    <Surname>Прізвище3</Surname>
+    <Affiliation>Організація3</Affiliation>
+    <Email>email2@example.com</Email>
+    <PaperTitle>Назва доповіді3</PaperTitle>
+  </Conferee>
+  <Conferee>
+    <Name>Ім'я4</Name>
+    <Surname>Прізвище4</Surname>
+    <Affiliation>Організація4</Affiliation>
+    <Email>email4@example.com</Email>
+    <PaperTitle>Назва доповіді4</PaperTitle>
+  </Conferee>
+</Conferees>
